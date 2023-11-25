@@ -1,7 +1,8 @@
 # app-dev
 My First Repository
 
-<h1> My Favorite Series : Hyakkano </h1>  
+<h1> My Favorite Series </h1>  
+
 **Hyakkano**
 
 
